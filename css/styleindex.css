@@ -6,5 +6,11 @@ p {
 }
 
 h1 {
+  text-align: center;
+  border: 2px;
+  border-style: dashed;
   font-family: "Playwrite IN Guides", sans-serif;
+  margin: 45px auto 200px auto;
+  width: 80%;
+  line-height: 3;
 }
